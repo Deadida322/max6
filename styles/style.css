@@ -1,0 +1,34 @@
+html{
+    background-color: #161616;
+    color: #ffe9e9;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.logic_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+form *{
+    margin: .7em;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue
+}
+
+button{
+    font-size: .7em;
+}
+span{
+    margin: 0;
+}
